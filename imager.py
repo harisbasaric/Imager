@@ -2,7 +2,7 @@
 # Imager - Resize multiple images in one go
 # 13 April 2020
 
-# use PIL - Python Image Library, used for resizing the image and exporting the resized image
+# use PIL - Python Imaging Library, used for resizing the image and exporting the resized image
 from PIL import Image
 # Tkinter used for GUI
 import tkinter as tk
