@@ -7,7 +7,7 @@ imgres is actually the subprogram of imager; Imager is the GUI version of imgres
 # imgres - Resize multiple images in one go, command line interface
 # 26 November 2019
 
-# using PIL - Python Image Library
+# using PIL - Python Imaging Library
 from PIL import Image
 import os
 import sys
